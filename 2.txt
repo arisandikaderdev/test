@@ -1,2 +1,0 @@
-ini file 2.txt
-perubahan pada file 
